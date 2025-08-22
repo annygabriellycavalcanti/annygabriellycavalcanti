@@ -11,10 +11,10 @@ Apaixonada por Vue.js e pelo desafio de criar experiências digitais incríveis.
 
   ##
  
-<div> > 
-  <a href = "mailto:annygabrielly.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/anny-gabrielly-48690a190/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+<div>
+  <a href="https://www.linkedin.com/in/anny-gabrielly-48690a190/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a> 
 </div>
 
 
